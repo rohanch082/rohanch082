@@ -73,11 +73,14 @@ const rohan = {
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
+
 ### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="48" alt="Drizzle ORM" />
 </p>
+
 
 ### Tools & Platforms
 
@@ -181,11 +184,11 @@ A modern personal portfolio website showcasing my skills, projects, and develope
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rohanch082/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rohan.ch082@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
