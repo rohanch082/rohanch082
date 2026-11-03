@@ -146,19 +146,23 @@ A modern personal portfolio website showcasing my skills, projects, and develope
 
 <!-- ================= GITHUB STATS ================= -->
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohanch082&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rohanch082&show_icons=true&hide=rank&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" />
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanch082&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanch082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs?username=rohanch082&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=6" />
 
 </div>
+
 
 ---
 
